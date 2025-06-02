@@ -6,19 +6,21 @@ This project provides a comparative analysis of Electric Vehicle (EV) adoption t
 
 ## 📁 Project Structure
 
+```
 EV-Adoption-Trends-Global-vs-US/
 │
 ├── 1_Google_Colab_notebook/
-│ └── Data_Final_Project_S25_Syed_Kazmi.ipynb
+│   └── Data_Final_Project_S25_Syed_Kazmi.ipynb
 │
 ├── 2_Datasets_CSV_files/
-│ ├── IEA Global EV Data 2024.csv
-│ └── Electric Vehicle Population Data.csv
+│   ├── IEA Global EV Data 2024.csv
+│   └── Electric Vehicle Population Data.csv
 │
 ├── 3_Presentation/
-│ └── ReDI_Data_Final_Project (Syed Hussnain Haider Kazmi).pptx
+│   └── ReDI_Data_Final_Project (Syed Hussnain Haider Kazmi).pptx
 │
 └── README.md
+```
 
 ---
 

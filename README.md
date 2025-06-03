@@ -71,6 +71,6 @@ The notebook uses visualizations such as bar charts, choropleth maps, and pie ch
 
 ## Future Improvements
 
-- Include more diverse or real-time data sources (e.g., APIs)  
+- Include more diverse or real-time data sources (e.g. APIs)  
 - Consider policy, environmental, and social impact factors  
 - Extend the project with time-series forecasting or predictive modeling

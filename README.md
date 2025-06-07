@@ -17,7 +17,11 @@ EV-Adoption-Trends-Global-vs-US/
 │   └── Electric Vehicle Population Data.csv
 │
 ├── 3_Presentation/
-│   └── ReDI_Data_Final_Project (Syed Hussnain Haider Kazmi).pptx
+│   ├── ReDI_Data_Final_Project.pptx
+│   └── ReDI_Data_Final_Project.pdf
+│
+├── 4_Results_Plots/
+│   └── Contains 10 visualizations generated from the analysis notebook
 │
 └── README.md
 ```
@@ -30,11 +34,14 @@ EV-Adoption-Trends-Global-vs-US/
   Full analysis code with step-by-step Exploratory Data Analysis (EDA), visualizations, and interpretations.
 
 - **Datasets**  
-  - `IEA Global EV Data 2024.csv`: Global EV data (2010-2024)
+  - `IEA Global EV Data 2024.csv`: Global EV data (2010–2024)  
   - `Electric Vehicle Population Data.csv`: U.S. state-wise EV registration data
 
 - **Presentation**  
-  PowerPoint slides used to present insights and findings based on the notebook.
+  Both PowerPoint (`.pptx`) and PDF (`.pdf`) versions of the presentation slides summarizing the findings.
+
+- **Results Plots**  
+  A folder containing 10 different visualizations generated from the notebook analysis.
 
 ---
 
